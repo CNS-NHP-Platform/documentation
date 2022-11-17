@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+Documentation for CNS NHP Platform
+==================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Documentation can be found at https://cns-nhp-platform.readthedocs.io/en/latest/index.html
